@@ -1,4 +1,4 @@
-file=open("C:\\Users\\junai\\source\\repos\\PythonApplication1\\20200317.txt")
+file=open(20200317.txt")
 count=0;
 for lines in file:
     print(lines.rstrip())
